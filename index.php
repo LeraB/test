@@ -1,2 +1,2 @@
 <?php
-echo 'Merge me';
+echo 'Merge me. I am in master branch';
